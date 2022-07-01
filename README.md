@@ -20,9 +20,9 @@
 
 >Amol Godse :   Front Main web page and Payment Getway
 
->Bhavesh Shahani :    Men Page
+>Bhavesh Shahani :    Men Page 
 
->Sanu Kumar Singh :    Login Page
+>Sanu Kumar Singh :    Login Page and Cover page
 
 >Dhiraj Garad :   Cart and Women's Page
 
