@@ -5,13 +5,13 @@
 
 
 ## Group Member's Name:
->Amol Godse
+>Amol Godse : Front Main web page and Payment Getway
 
->Bhavesh Shahani
+>Bhavesh Shahani :  Men Page
 
->Sanu Kumar Singh
+>Sanu Kumar Singh :  Login Page
 
->Dhiraj Garad
+>Dhiraj Garad : Cart and Women's Page
 
 ## About the Project
 >This Project All about the clone Version Of [Bewakoof.com](https://www.bewakoof.com/)
