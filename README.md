@@ -6,8 +6,7 @@
 
 
 ## About the Project
-Bewakoof is an e-commerce website for clothes, individual project  which is completed in five days Login,singup and cart functionality are developed 
-
+Bewakoof is an e-commerce website for shopping clothes and various daily uses Individual project which is completed in five days Login,singup and cart,Men's Product page and Women's product page functionality are developed
 
 
 # Home Page
