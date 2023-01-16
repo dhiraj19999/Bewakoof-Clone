@@ -6,9 +6,7 @@
 
 
 ## About the Project
->This Project All about the clone Version Of [Bewakoof.com](https://www.bewakoof.com/)
->I created a fully Functionble version by using **HTMl**, **CSS**, **JavaScript**. And Best Thing of our Project is **our clone site gives The Access to user When the user create Account by using Sign Up And do Log in**.
-
+Bewakoof is an e-commerce website for clothes, individual project  which is completed in five days Login,singup and cart functionality are developed 
 
 
 
